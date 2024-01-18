@@ -1,5 +1,5 @@
 # Large Language Model Hackathon xCyber
-This repository is part of the Large Language Model Hackathon xCyber 2024 jointly organised by DTO and xCyber.
+This repository is part of the Large Language Model Hackathon xCyber 2024 jointly organised by **DTO** and **xCyber**.
 
 Organisers:
 
