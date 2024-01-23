@@ -5,3 +5,5 @@ This repository contains:
 1. PowerPoint Slides
 2. Tutorial 1: Prompt Engineering for Cybersecurity
 3. Tutorial 2: Retrieval Augmentation Generation for Cybersecurity
+
+Tutorials are adapted from https://github.com/HansHenseler/DFRWS-APAC-LLM-Workshop.
